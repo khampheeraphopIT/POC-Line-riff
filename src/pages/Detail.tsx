@@ -40,7 +40,6 @@ function Detail() {
           textAlign: "center",
         }}
       >
-        {/* แสดงข้อมูลผู้ใช้ LINE */}
         {profile && (
           <div
             style={{
